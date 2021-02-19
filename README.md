@@ -1,3 +1,3 @@
 # Quantum-Simulator
 
-A Quantum Simulator program for the TASK-3 in QOSF
+A Quantum Simulator for the TASK-3 in QOSF
