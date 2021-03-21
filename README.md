@@ -2,7 +2,7 @@
 
 A Quantum Simulator program utilizing matrix operations to simulate a quantum system capable of reproducing pseudo fundamentals of superposition and entanglement. This program however constitutes to perform operations on 2 qubits only. As limited to its 2 qubit operation versatality, this is still capable of multi-gate measurements. In addition to this, parametric gates are also enabled for inputs in variables with angles and radians.
 
-A more readable way to view the file render: [nbviewer](https://nbviewer.jupyter.org/github/prashanth-up/Quantum-Simulator/blob/master/QuantumSimulator.ipynb)
+A more readable way to view the jupyter notebook render: [nbviewer](https://nbviewer.jupyter.org/github/prashanth-up/Quantum-Simulator/blob/master/QuantumSimulator.ipynb)
 
 ## Current capabilities
 - [x] Initialise state vectors.
